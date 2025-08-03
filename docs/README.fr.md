@@ -2,7 +2,7 @@
 
 Un bot Discord simple utilisant [discord.py](https://discordpy.readthedocs.io/) qui propose la commande `/spam` pour envoyer un message plusieurs fois via un bouton.
 
-> [!ATTENTION]
+> [!WARNING]
 > Je ne suis pas responsable des actions effectuées avec ce bot.
 > Je ne suis pas responsable de tout bannissement résultant de l'utilisation de ce bot.
 
