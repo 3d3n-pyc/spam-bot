@@ -16,7 +16,7 @@ Un bot Discord simple utilisant [discord.py](https://discordpy.readthedocs.io/) 
 
 1. **Clonez le dépôt :**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/3d3n-pyc/spam-bot.git
    cd utils-bot
    ```
 
