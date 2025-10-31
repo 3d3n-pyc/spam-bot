@@ -1,5 +1,5 @@
 
-# Utils Bot
+# Spam Bot
 
 This repository contains a simple Discord bot with a `/spam` command.
 
