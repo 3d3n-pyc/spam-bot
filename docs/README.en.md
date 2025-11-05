@@ -17,7 +17,7 @@ A simple Discord bot using [discord.py](https://discordpy.readthedocs.io/) that 
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/3d3n-pyc/spam-bot.git
-   cd utils-bot
+   cd spam-bot
    ```
 
 2. **Install dependencies:**
